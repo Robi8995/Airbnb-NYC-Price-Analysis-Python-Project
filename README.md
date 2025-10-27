@@ -3,8 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 [![EDA](https://img.shields.io/badge/EDA-Pandas-yellow)](https://pandas.pydata.org/)
 [![Visualization](https://img.shields.io/badge/Visualization-Matplotlib_Seaborn-orange)](https://matplotlib.org/)
-[![Dataset](https://img.shields.io/badge/Dataset-Airbnb_NYC_2019-green)](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
 A comprehensive Python-based exploratory data analysis project analyzing **48,895 Airbnb listings across New York City (2019)** to uncover pricing trends, neighborhood patterns, room type variations, and seasonal dynamics affecting short-term rental markets. This project combines data cleaning, feature engineering, and advanced visualization to derive actionable insights for pricing strategies and business decisions.
 
