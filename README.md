@@ -509,23 +509,9 @@ plt.show()
 
 ---
 
-## 👤 Author
-
+## 📝 Author
 **Robin Jimmichan P**  
-Data Analyst | Turning Data into Business Impact  
-📧 Email | 🌐 [GitHub](https://github.com/Robi8995) | 💼 [LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291)
+[LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
 ---
 
-## 💬 Future Scope
-
-- Build predictive regression model to forecast prices based on listing attributes
-- Implement clustering analysis to identify similar neighborhoods and pricing zones
-- Develop geospatial mapping visualization using latitude/longitude coordinates
-- Create Power BI or Tableau interactive dashboard for real-time price monitoring
-- Time series forecasting for seasonal demand and price predictions
-- Host performance analysis and profitability assessment
-- Customer review sentiment analysis and quality impact on pricing
-- Competitive pricing intelligence and market positioning analysis
-
----
