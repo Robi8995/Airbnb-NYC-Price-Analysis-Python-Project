@@ -503,7 +503,6 @@ plt.show()
 | **Data Processing** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn |
 | **Environment** | Jupyter Notebook / VS Code |
-| **Dataset Source** | Kaggle – Airbnb NYC 2019 |
 
 ---
 
